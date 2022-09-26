@@ -1,9 +1,0 @@
-{
-  "listaCarros" : [ {
-    "modelo" : "uno",
-    "placa" : "osp",
-    "qtdPortas" : 1,
-    "velocidade" : 23,
-    "qtdCombustivel" : 123
-  } ]
-}
