@@ -1,8 +1,10 @@
+/* 2. Crie uma classe Java para cadastrar dados relacionados à entidade definida na questão 1.
+A classe deve receber dados via teclado e os salvar em um arquivo JSON. */
+
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
